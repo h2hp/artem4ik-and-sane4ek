@@ -7,6 +7,14 @@ import OurDocuments from './components/OurDocuments'
 import Customersatisfaction from './components/Customersatisfaction'
 import Workingspace from './components/Workingspace'
 import SomeofOurGreatCustomers from './components/SomeofOurGreatCustomers'
+import Lider from './components/Lider'
+import FrequentlyAskQuestion from './components/FrequentlyAskQuestion'
+import Testimonials from './components/Testimonials'
+import StartaNewProject from './components/StartaNewProject'
+import Subscribe from './components/Subscribe'
+import Mapp from './components/Mapp'
+import Last from './components/Last'
+
 import './index.css'
 function App() {
 
@@ -20,6 +28,13 @@ function App() {
       <Customersatisfaction/>
       <Workingspace/>
       <SomeofOurGreatCustomers/>
+      <Lider/>
+      <FrequentlyAskQuestion/>
+      <Testimonials/>
+      <StartaNewProject/>
+      <Subscribe/>
+      <Mapp/>
+      <Last/>
     </>
   )
 }
